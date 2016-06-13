@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+Here is Goffy, trying rather clumsily to understand a bit of GitHub ...
